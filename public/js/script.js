@@ -1,4 +1,4 @@
-$(function() {
+    
 
     $('.tombolTambahData').on('.click', function() {
         $('#judulModal').html('Tambah Data Mahasiswa'); 
